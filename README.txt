@@ -1,1 +1,1 @@
-This repository contains the pre-processed data, code and the supporting information files for the preprint "Assessing COVID-19 pandemic excess deaths in Brazil: years 2020 and 2021" by Saditt Rocio Robles Colonia, Lara Morena Cardeal, Rogério Antonio de Oliveira, Luzia Aparecida Trinca
+This repository contains the pre-processed data, the code and the supporting information files for the preprint "Assessing COVID-19 pandemic excess deaths in Brazil: years 2020 and 2021" by Saditt Rocio Robles Colonia, Lara Morena Cardeal, Rogério Antonio de Oliveira, Luzia Aparecida Trinca
