@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please, cite this repository as below."
+authors:
+- family-names: "Colonia"
+  given-names: "S. R. R."
+- family-names: "Cardeal"
+  given-names: "L. M."
+- family-names: "Oliveira"
+  given-names: "R. A."
+- family-names: "Trinca"
+  given-names: "L. A."
+title: "COVID-19_excess_deaths_Brazil_2020_2021"
+version: 1.0.0
+date-released: 2023-04-27
+url: "https://github.com/luziatrinca/COVID-19_excess_deaths_Brazil_2020_2021"
